@@ -11,6 +11,11 @@
 3. **Set up the containers** using Docker Compose via `docker-compose up`
 4. **Check your containers** via `docker ps -a` and if you will see failed containers user `docker logs <container_name>`
 5. Check Logs for the errors
+
+Set-up process:
+
+![img](src/imgs/setup.png)
+
 ---
 
 ### Credentials:
