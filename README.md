@@ -16,6 +16,14 @@ Set-up process:
 
 ![img](src/imgs/setup.png)
 
+To enter the hdfs command line interface (CLI) use:
+
+`docker exec -it streamsets-namenode-1 /bin/bash`
+
+Also, the Web UI is available under `localhost:9870`
+
+![](src/imgs/UI.png)
+
 ---
 
 ### Credentials:

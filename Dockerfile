@@ -1,4 +1,4 @@
-FROM streamsets/datacollector:3.9.0
+FROM streamsets/datacollector:3.23.0-latest
 
 ARG SDC_LIBS
 
